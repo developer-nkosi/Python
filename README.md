@@ -1,4 +1,5 @@
 # Python
 
 You win some you lose some.
-Theres is more to learn than we know.
+There is more to learn than we know.
+Pull n commit yeah 
